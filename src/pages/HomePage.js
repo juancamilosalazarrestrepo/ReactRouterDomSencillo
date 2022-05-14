@@ -7,7 +7,7 @@ export default function HomePage() {
    
 <div>
     <h1>Aplication</h1>
-    <Link to={`/users/${userId}`}>visite los usuarios</Link>
+    <Link to={`/users/`}>visite los usuarios</Link>
     
    </div>
   )
